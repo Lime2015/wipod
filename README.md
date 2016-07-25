@@ -1,5 +1,7 @@
 # wipod
-License
+The WiPod project is lead and composed of a team of volunteers, that believes in the power of good developer to enlighten the world.
+
+# License
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
