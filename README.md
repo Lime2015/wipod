@@ -1,5 +1,6 @@
 # wipod
-The WiPod project is lead and composed of a team of volunteers, that believes in the power of good developer to enlighten the world.
+The WiPod project is lead and composed of a team of volunteers, 
+that believes in the power of good developer to enlighten the world.
 
 # License
 
